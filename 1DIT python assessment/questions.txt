@@ -1,0 +1,388 @@
+{
+'What is the smallest unit of matter?':
+{'answers': ['Atom', 'Molecule', 'Cell', 'Particle'], 'difficulty': '1'},
+'Which element has the symbol \'H\'?':
+{'answers': ['Hydrogen', 'Helium', 'Oxygen', 'Carbon'], 'difficulty': '1'},
+'What gas do plants absorb during photosynthesis?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Hydrogen'], 'difficulty': '1'},
+'Which gas makes up the majority of Earth\'s atmosphere?':
+{'answers': ['Nitrogen', 'Oxygen', 'Carbon dioxide', 'Helium'], 'difficulty': '1'},
+'Which state of matter has a definite shape and volume?':
+{'answers': ['Solid', 'Liquid', 'Gas', 'Plasma'], 'difficulty': '1'},
+'Which of the following is a renewable source of energy?':
+{'answers': ['Solar power', 'Coal', 'Natural gas', 'Nuclear power'], 'difficulty': '1'},
+'What is the chemical formula for water?':
+{'answers': ['H2O', 'CO2', 'NaCl', 'C6H12O6'], 'difficulty': '1'},
+'What is it called when a liquid turns into a solid?':
+{'answers': ['Freezing', 'Melting', 'Evaporation', 'Condensation'], 'difficulty': '1'},
+'What is the chemical symbol for sodium?':
+{'answers': ['Na', 'So', 'So2', 'N'], 'difficulty': '1'},
+'What is the study of matter and its changes called?':
+{'answers': ['Chemistry', 'Physics', 'Biology', 'Geology'], 'difficulty': '1'},
+'Which gas do humans exhale when they breathe out?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Hydrogen'], 'difficulty': '1'},
+'What is it called when a gas turns into a liquid?':
+{'answers': ['Condensation', 'Evaporation', 'Sublimation', 'Deposition'], 'difficulty': '1'},
+'What is the chemical symbol for helium?':
+{'answers': ['He', 'H', 'He2', 'H2'], 'difficulty': '1'},
+'Which gas is responsible for the characteristic smell of a swimming pool?':
+{'answers': ['Chlorine', 'Bromine', 'Hydrogen', 'Ozone'], 'difficulty': '1'},
+'Which subatomic particle has a positive charge?':
+{'answers': ['Proton', 'Electron', 'Neutron', 'Ion'], 'difficulty': '1'},
+'Which gas is produced as a byproduct of burning fossil fuels?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Methane'], 'difficulty': '1'},
+'What are the 3 states of matter?':
+{'answers': ['Liquid, Solid, Gas', 'Solid, Liquid, Air', 'Solid, Water, Air', 'Gas, Solid, Water'], 'difficulty': '1'},
+'What is the center of an atom called?':
+{'answers': ['Nucleus', 'Nuclear', 'Nucleoid', 'Nucleon'], 'difficulty': '1'},
+'Which gas is produced during photosynthesis?':
+{'answers': ['Oxygen', 'Carbon dioxide', 'Nitrogen', 'Methane'], 'difficulty': '1'},
+'What is a liquid changing into a solid called?':
+{'answers': ['Freezing', 'Vaporisation', 'Melting', 'Condensation'], 'difficulty': '1'},
+'Which of the following is a greenhouse gas?':
+{'answers': ['Methane', 'Oxygen', 'Nitrogen', 'Argon'], 'difficulty': '1'},
+'What is a gas changing into a liquid called?':
+{'answers': ['Condensation', 'Evaporation', 'Sublimation', 'Boiling'], 'difficulty': '1'},
+'What is a liquid changing into a gas at the surface called?':
+{'answers': ['Evaporation', 'Vaporisation', 'Condensation', 'Sublimation'], 'difficulty': '1'},
+'What is the chemical symbol for carbon dioxide?':
+{'answers': ['CO2', 'CD', 'C2O', 'CO'], 'difficulty': '1'},
+'What is a gas changing into a liquid called?':
+{'answers': ['Condensation', 'Evaporation', 'Sublimation', 'Deposition'], 'difficulty': '1'},
+'What is the chemical formula for carbon monoxide?':
+{'answers': ['CO', 'CO2', 'C2O', 'C'], 'difficulty': '1'},
+'Which gas is commonly used in carbonated beverages to create the fizz?':
+{'answers': ['Carbon dioxide (CO2)', 'Nitrogen (N2)', 'Oxygen (O2)', 'Hydrogen (H2)'], 'difficulty': '1'},
+'What is the chemical symbol for oxygen?':
+{'answers': ['O', 'O2', 'C', 'CO2'], 'difficulty': '1'},
+'What is it called when a solid turns directly into a gas?':
+{'answers': ['Sublimation', 'Evaporation', 'Condensation', 'Deposition'], 'difficulty': '1'},
+'What is it called when a gas turns into a solid?':
+{'answers': ['Deposition', 'Condensation', 'Sublimation', 'Evaporation'], 'difficulty': '1'},
+'What is the chemical symbol for water?':
+{'answers': ['H2O', 'W', 'O2', 'H'], 'difficulty': '1'},
+'What is the general process of when a liquid turns into a gas called?':
+{'answers': ['Vaporisation', 'Evaporation', 'Condensation', 'Sublimation'], 'difficulty': '1'},
+'What is the chemical symbol for carbon?':
+{'answers': ['C', 'Co', 'Ca', 'Cr'], 'difficulty': '1'},
+'Which gas is necessary for combustion and burning?':
+{'answers': ['Oxygen', 'Carbon dioxide', 'Nitrogen', 'Helium'], 'difficulty': '1'},
+'What is it called when a gas turns into a solid directly?':
+{'answers': ['Deposition', 'Sublimation', 'Condensation', 'Evaporation'], 'difficulty': '1'},
+'What is the chemical symbol for hydrogen?':
+{'answers': ['H', 'He', 'Ho', 'Hy'], 'difficulty': '1'},
+'What is it called when a solid turns into a liquid?':
+{'answers': ['Melting', 'Freezing', 'Evaporation', 'Condensation'], 'difficulty': '1'},
+'What is it called when a gas turns into a liquid?':
+{'answers': ['Condensation', 'Vaporisation', 'Evaporation', 'Sublimation'], 'difficulty': '1'},
+'Which gas is released during respiration by living organisms?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Hydrogen'], 'difficulty': '1'},
+'What is the pH value of a neutral solution?':
+{'answers': ['7', '14', '1', '0'], 'difficulty': '2'},
+'What is it called when a solid turns directly into a gas?':
+{'answers': ['Sublimation', 'Deposition', 'Evaporation', 'Condensation'], 'difficulty': '2'},
+'Which process converts sugar into energy in living cells?':
+{'answers': ['Cellular respiration', 'Fermentation', 'Photosynthesis', 'Osmosis'], 'difficulty': '2'},
+'Which gas is necessary for combustion to occur?':
+{'answers': ['Oxygen', 'Carbon dioxide', 'Nitrogen', 'Helium'], 'difficulty': '2'},
+'Which element is essential for human bone health?':
+{'answers': ['Calcium', 'Iron', 'Potassium', 'Sodium'], 'difficulty': '2'},
+'What is the atomic number of oxygen?':
+{'answers': ['8', '6', '12', '16'], 'difficulty': '2'},
+'What is converting a liquid into a gas called in general?':
+{'answers': ['Vaporisation', 'Condensation', 'Sublimation', 'Melting'], 'difficulty': '2'},
+'What is the chemical formula for table salt?':
+{'answers': ['NaCl', 'KCl', 'CaCl2', 'HCl'], 'difficulty': '2'},
+'Which gas is commonly used in fire extinguishers?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Argon'], 'difficulty': '2'},
+'What is the SI unit for measuring temperature?':
+{'answers': ['Kelvin', 'Celsius', 'Fahrenheit', 'Rankine'], 'difficulty': '2'},
+'Which gas is produced during respiration?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Hydrogen'], 'difficulty': '2'},
+'Which gas is commonly used in soft drinks to make them fizzy?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Helium'], 'difficulty': '2'},
+'Which gas is commonly used as a disinfectant for water treatment?':
+{'answers': ['Chlorine', 'Bromine', 'Hydrogen peroxide', 'Ozone'], 'difficulty': '2'},
+'What is the chemical symbol for nitrogen?':
+{'answers': ['N', 'Ni', 'Na', 'Ne'], 'difficulty': '2'},
+'Which gas is commonly used in the production of fizzy drinks?':
+{'answers': ['Carbon dioxide', 'Oxygen', 'Nitrogen', 'Helium'], 'difficulty': '2'},
+'What is the element which symbol is \'Na\'?':
+{'answers': ['Sodium', 'Neon', 'Aluminium', 'Salt'], 'difficulty': '2'},
+'What is the first element of the periodic table?':
+{'answers': ['Hydrogen', 'Helium', 'Iron', 'Carbon'], 'difficulty': '2'},
+'What is it by which a solid changes directly into a gas called?':
+{'answers': ['Sublimation', 'Condensation', 'Evaporation', 'Fusion'], 'difficulty': '2'},
+'Which gas makes up the majority of the Earth\'s atmosphere?':
+{'answers': ['Nitrogen', 'Oxygen', 'Carbon dioxide', 'Hydrogen'], 'difficulty': '2'},
+'Which of the following is a noble gas?':
+{'answers': ['Helium', 'Oxygen', 'Nitrogen', 'Chlorine'], 'difficulty': '2'},
+'What is the name of the scale used to measure acidity or alkalinity?':
+{'answers': ['pH scale', 'Kelvin scale', 'Fahrenheit scale', 'Richter scale'], 'difficulty': '2'},
+'What is breaking down a compound into simpler substances called?':
+{'answers': ['Decomposition', 'Synthesis', 'Combustion', 'Dissolution'], 'difficulty': '2'},
+'What is it by which a gas changes directly into a solid called?':
+{'answers': ['Deposition', 'Condensation', 'Vaporisation', 'Sublimation'], 'difficulty': '2'},
+'What is the SI unit for temperature?':
+{'answers': ['Kelvin', 'Celsius', 'Fahrenheit', 'Rankine'], 'difficulty': '2'},
+'What is the molecular formula for sulfuric acid?':
+{'answers': ['H2SO4', 'HCl', 'NaOH', 'CO2'], 'difficulty': '2'},
+'What is the atomic number of sodium?':
+{'answers': ['11', '12', '14', '16'], 'difficulty': '2'},
+'What is the chemical symbol for potassium?':
+{'answers': ['K', 'P', 'Pt', 'Po'], 'difficulty': '2'},
+'What is the chemical symbol for sulfur?':
+{'answers': ['S', 'Su', 'Sr', 'So'], 'difficulty': '2'},
+'What is the atomic number of silicon?':
+{'answers': ['14', '8', '16', '10'], 'difficulty': '2'},
+'What is the chemical symbol for chlorine?':
+{'answers': ['Cl', 'Cr', 'Cn', 'Ce'], 'difficulty': '2'},
+'What is the atomic number of helium?':
+{'answers': ['2', '4', '6', '8'], 'difficulty': '2'},
+'What is the chemical symbol for phosphorus?':
+{'answers': ['P', 'Po', 'Ph', 'Pt'], 'difficulty': '2'},
+'What is the chemical symbol for gold?':
+{'answers': ['Au', 'Ag', 'Fe', 'Cu'], 'difficulty': '3'},
+'Which substance has a pH value less than 7?':
+{'answers': ['Acid', 'Base', 'Neutral', 'Salt'], 'difficulty': '3'},
+'Which element is the most abundant in the Earth\'s crust?':
+{'answers': ['Oxygen', 'Silicon', 'Carbon', 'Aluminum'], 'difficulty': '3'},
+'What is the atomic symbol for iron?':
+{'answers': ['Fe', 'Au', 'Ag', 'Cu'], 'difficulty': '3'},
+'Which type of chemical bond involves the sharing of electrons?':
+{'answers': ['Covalent bond', 'Ionic bond', 'Hydrogen bond', 'Metallic bond'], 'difficulty': '3'},
+'What is the pH value of a basic solution?':
+{'answers': ['Above 7', 'Below 7', 'Equal to 7', 'Depends on substance'], 'difficulty': '3'},
+'What is the term for a substance that speeds up a chemical reaction without being consumed?':
+{'answers': ['Catalyst', 'Reactant', 'Product', 'Enzyme'], 'difficulty': '3'},
+'Which gas is commonly used in welding to create an inert atmosphere?':
+{'answers': ['Argon', 'Nitrogen', 'Oxygen', 'Carbon dioxide'], 'difficulty': '3'},
+'What is the chemical symbol for lead?':
+{'answers': ['Pb', 'Ld', 'Le', 'Pl'], 'difficulty': '3'},
+'Which type of chemical bond involves the sharing and overlapping of orbitals?':
+{'answers': ['Covalent bond', 'Ionic bond', 'Hydrogen bond', 'Metallic bond'], 'difficulty': '3'},
+'What is the chemical formula for ammonia?':
+{'answers': ['NH3', 'H2SO4', 'NaCl', 'HCl'], 'difficulty': '3'},
+'Which gas is commonly used as a fuel for gas stoves and grills?':
+{'answers': ['Propane', 'Butane', 'Methane', 'Ethane'], 'difficulty': '3'},
+'What is the chemical symbol for bromine?':
+{'answers': ['Br', 'Ba', 'Be', 'B'], 'difficulty': '3'},
+'Which type of chemical bond is formed by the attraction between charged ions?':
+{'answers': ['Ionic bond', 'Covalent bond', 'Hydrogen bond', 'Metallic bond'], 'difficulty': '3'},
+'What is the chemical symbol for tin?':
+{'answers': ['Sn', 'Sb', 'Tn', 'Tl'], 'difficulty': '3'},
+'What is the element which symbol is \'Sb\'?':
+{'answers': ['Antimony', 'Arsenic', 'Tin', 'Samarium'], 'difficulty': '3'},
+'What is combining elements to form a new substance called?':
+{'answers': ['Synthesis', 'Decomposition', 'Precipitation', 'Oxidation'], 'difficulty': '3'},
+'Which type of bond involves the sharing of electrons between atoms?':
+{'answers': ['Covalent', 'Ionic', 'Metallic', 'Hydrogen'], 'difficulty': '3'},
+'What is the unit of measurement for the amount of a substance?':
+{'answers': ['Mole', 'Gram', 'Liter', 'Kelvin'], 'difficulty': '3'},
+'What is the product of the reaction between an acid and a base?':
+{'answers': ['Salt and Water', 'Carbon Dioxide', 'Hydrogen Gas', 'Oxygen Gas'], 'difficulty': '3'},
+'Which type of reaction releases energy in the form of light and heat?':
+{'answers': ['Exothermic', 'Endothermic', 'Combustion', 'Decomposition'], 'difficulty': '3'},
+'Which of the following elements is a halogen?':
+{'answers': ['Fluorine', 'Lithium', 'Potassium', 'Calcium'], 'difficulty': '3'},
+'Which of the following is a transition metal?':
+{'answers': ['Copper', 'Calcium', 'Chlorine', 'Carbon'], 'difficulty': '3'},
+'Which of the following elements is a noble gas?':
+{'answers': ['Argon', 'Sodium', 'Phosphorus', 'Magnesium'], 'difficulty': '3'},
+'Which of the following elements is a metalloid?':
+{'answers': ['Germanium', 'Xenon', 'Sulfur', 'Fluorine'], 'difficulty': '3'},
+'What is the chemical symbol for tungsten?':
+{'answers': ['W', 'Tn', 'Sg', 'Tg'], 'difficulty': '3'},
+'What is the atomic number of iron?':
+{'answers': ['26', '31', '20', '24'], 'difficulty': '3'},
+'What is the chemical formula for sulfite?':
+{'answers': ['SO32-', 'SO42-', 'H2S', 'S6'], 'difficulty': '3'},
+'Which gas is responsible for the depletion of the ozone layer?':
+{'answers': ['Chlorofluorocarbons (CFCs)', 'Oxygen (O2)', 'Methane (CH4)', 'Nitrogen (N2)'], 'difficulty': '3'},
+'Which gas is commonly used in fluorescent lights?':
+{'answers': ['Neon (Ne)', 'Argon (Ag)', 'Xenon (Xe)', 'Krypton (Kr)'], 'difficulty': '3'},
+'Which gas is commonly used in airships and balloons for buoyancy?':
+{'answers': ['Hydrogen (H2)', 'Helium (He)', 'Nitrogen (N2)', 'Oxygen (O2)'], 'difficulty': '3'},
+'Which element is commonly used in batteries?':
+{'answers': ['Lithium (Li)', 'Sodium (Na)', 'Potassium (K)', 'Magnesium (Mg)'], 'difficulty': '3'},
+'What is the atomic number of copper?':
+{'answers': ['29', '26', '32', '18'], 'difficulty': '3'},
+'What is the chemical symbol for mercury?':
+{'answers': ['Hg', 'Me', 'Mr', 'Mv'], 'difficulty': '3'},
+'Which element is the most electronegative?':
+{'answers': ['Fluorine (F)', 'Oxygen (O)', 'Chlorine (Cl)', 'Nitrogen (N)'], 'difficulty': '3'},
+'Which gas is commonly used in anesthesia?':
+{'answers': ['Nitrous oxide (N2O)', 'Oxygen (O2)', 'Helium (He)', 'Carbon dioxide (CO2)'], 'difficulty': '3'},
+'Which gas is responsible for the smell of rotten eggs?':
+{'answers': ['Hydrogen sulfide', 'Carbon monoxide', 'Methane', 'Ozone'], 'difficulty': '4'},
+'What is the atomic number of carbon?':
+{'answers': ['6', '8', '12', '16'], 'difficulty': '4'},
+'Which gas is known as laughing gas?':
+{'answers': ['Nitrous oxide', 'Oxygen', 'Nitrogen', 'Carbon monoxide'], 'difficulty': '4'},
+'What is the pH value of distilled water?':
+{'answers': ['Depends on temperature', '1', '7', '10'], 'difficulty': '4'},
+'Which element is a main component of proteins?':
+{'answers': ['Nitrogen', 'Carbon', 'Oxygen', 'Hydrogen'], 'difficulty': '4'},
+'What is the chemical symbol for silver?':
+{'answers': ['Ag', 'Au', 'Si', 'Sr'], 'difficulty': '4'},
+'Which element is essential for the formation of ATP, the energy currency of cells?':
+{'answers': ['Phosphorus', 'Carbon', 'Oxygen', 'Hydrogen'], 'difficulty': '4'},
+'What is the atomic number of uranium?':
+{'answers': ['92', '79', '53', '35'], 'difficulty': '4'},
+'Which subatomic particle determines the chemical properties of an atom?':
+{'answers': ['Electron', 'Proton', 'Neutron', 'Photon'], 'difficulty': '4'},
+'Which element is the lightest metal?':
+{'answers': ['Lithium', 'Sodium', 'Potassium', 'Magnesium'], 'difficulty': '4'},
+'What is converting a gas into a plasma called?':
+{'answers': ['Ionisation', 'Vaporisation', 'Condensation', 'Sublimation'], 'difficulty': '4'},
+'Which element is a main component of DNA?':
+{'answers': ['Phosphorus', 'Carbon', 'Oxygen', 'Hydrogen'], 'difficulty': '4'},
+'Which gas is commonly used in the manufacture of plastics?':
+{'answers': ['Ethylene', 'Propylene', 'Methane', 'Acetylene'], 'difficulty': '4'},
+'What is the chemical symbol for iron?':
+{'answers': ['Fe', 'Ag', 'Pb', 'Cu'], 'difficulty': '4'},
+'What is the chemical formula for methane?':
+{'answers': ['CH4', 'CO2', 'H2O', 'NH3'], 'difficulty': '4'},
+'Which element is the most abundant in the universe?':
+{'answers': ['Hydrogen (H)', 'Oxygen (O)', 'Carbon (C)', 'Helium (He)'], 'difficulty': '4'},
+'What is the chemical formula for hydrogen peroxide?':
+{'answers': ['H2O2', 'NaCl', 'CO2', 'HCl'], 'difficulty': '4'},
+'Which element is commonly used in semiconductors?':
+{'answers': ['Silicon (Si)', 'Germanium (Ge)', 'Copper (Cu)', 'Aluminum (Al)'], 'difficulty': '4'},
+'Which gas is used in light bulbs to prevent burning the filament?':
+{'answers': ['Argon (Ar)', 'Helium (He)', 'Krypton (Kr)', 'Xenon (Xe)'], 'difficulty': '4'},
+'Which element is commonly used in photography?':
+{'answers': ['Silver (Ag)', 'Gold (Au)', 'Platinum (Pt)', 'Copper (Cu)'], 'difficulty': '4'},
+'Which element is commonly used in fertilizer production?':
+{'answers': ['Nitrogen (N)', 'Phosphorus (P)', 'Potassium (K)', 'Calcium (Ca)'], 'difficulty': '4'},
+'Which element is commonly used in making mirrors?':
+{'answers': ['Silver (Ag)', 'Gold (Au)', 'Aluminum (Al)', 'Copper (Cu)'], 'difficulty': '4'},
+'Which gas is commonly known as tear gas?':
+{'answers': ['Chlorine', 'Ammonia', 'Phosgene', 'Toluene'], 'difficulty': '4'},
+'Which element is commonly used in fluorescent lights?':
+{'answers': ['Neon', 'Sodium', 'Mercury', 'Argon'], 'difficulty': '4'},
+'Which gas is produced when acids react with metals?':
+{'answers': ['Hydrogen', 'Oxygen', 'Nitrogen', 'Helium'], 'difficulty': '4'},
+'Which gas is responsible for the greenhouse effect on Venus?':
+{'answers': ['Carbon dioxide', 'Methane', 'Oxygen', 'Sulfur dioxide'], 'difficulty': '4'},
+'What is the chemical formula for sulfuric acid?':
+{'answers': ['H2SO4', 'NaOH', 'CaCO3', 'HCl'], 'difficulty': '4'},
+'What is the atomic number of chlorine?':
+{'answers': ['17', '1', '14', '8'], 'difficulty': '4'},
+'Which element is commonly used in the production of rubber?':
+{'answers': ['Sulfur', 'Calcium', 'Sodium', 'Phosphorus'], 'difficulty': '4'},
+'Which gas is commonly used in the production of ammonia?':
+{'answers': ['Hydrogen', 'Oxygen', 'Nitrogen', 'Helium'], 'difficulty': '4'},
+'What is the atomic number of potassium?':
+{'answers': ['19', '6', '12', '16'], 'difficulty': '4'},
+'What is the chemical formula for sulfur dioxide?':
+{'answers': ['SO2', 'CO2', 'H2O', 'NO2'], 'difficulty': '4'},
+'What is the atomic number of titanium?':
+{'answers': ['22', '24', '26', '28'], 'difficulty': '4'},
+'Which compound is commonly used as a food preservative?':
+{'answers': ['Sodium benzoate', 'Potassium chloride', 'Calcium carbonate', 'Magnesium sulfate'], 'difficulty': '4'},
+'Which element is commonly used as a catalyst in the production of ammonia?':
+{'answers': ['Iron', 'Platinum', 'Copper', 'Nickel'], 'difficulty': '4'},
+'What is the boiling point of ethanol in Celsius?':
+{'answers': ['78.4', '0', '100', '25'], 'difficulty': '4'},
+'Which gas is responsible for the greenhouse effect?':
+{'answers': ['Carbon dioxide (CO2)', 'Oxygen (O2)', 'Nitrogen (N2)', 'Methane (CH4)'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of vinegar?':
+{'answers': ['Acetic acid', 'Hydrochloric acid', 'Sulfuric acid', 'Citric acid'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of rotten fish?':
+{'answers': ['Trimethylamine', 'Ammonia', 'Hydrogen sulfide', 'Methane'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of garlic?':
+{'answers': ['Allicin', 'Acetic acid', 'Hydrogen sulfide', 'Methane'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of skunks?':
+{'answers': ['Butyl mercaptan', 'Methane (CH4)', 'Hydrogen sulfide (H2S)', 'Carbon monoxide (CO)'], 'difficulty': '5'},
+'Which gas is commonly used as a refrigerant?':
+{'answers': ['Freon (R-22)', 'Ammonia (NH3)', 'Carbon dioxide (CO2)', 'Propane (C3H8)'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of natural gas?':
+{'answers': ['Methane (CH4)', 'Ethane (C2H6)', 'Butane (C4H10)', 'Propane (C3H8)'], 'difficulty': '5'},
+'Which gas is commonly used in firecrackers and balloons for a popping sound?':
+{'answers': ['Acetylene (C2H2)', 'Methane (CH4)', 'Hydrogen (H2)', 'Propane (C3H8)'], 'difficulty': '5'},
+'Which element is commonly used in the production of glass?':
+{'answers': ['Silicon', 'Aluminum', 'Zinc', 'Copper'], 'difficulty': '5'},
+'Which element is used as a catalyst in the Haber process for ammonia synthesis?':
+{'answers': ['Iron', 'Platinum', 'Copper', 'Nickel'], 'difficulty': '5'},
+'Which element is commonly used in the production of fertilizers?':
+{'answers': ['Nitrogen', 'Phosphorus', 'Potassium', 'Calcium'], 'difficulty': '5'},
+'Which element is commonly used in the production of PVC?':
+{'answers': ['Chlorine', 'Sodium', 'Aluminum', 'Zinc'], 'difficulty': '5'},
+'Which element is commonly used in the production of stainless steel?':
+{'answers': ['Chromium', 'Copper', 'Nickel', 'Titanium'], 'difficulty': '5'},
+'Which gas is commonly used in oxy-fuel welding?':
+{'answers': ['Acetylene', 'Propane', 'Methane', 'Butane'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of rotten onions?':
+{'answers': ['Propanethial S-oxide', 'Citric acid', 'Acetic acid', 'Sulfur compounds'], 'difficulty': '5'},
+'Which element is commonly used in fireworks for red color?':
+{'answers': ['Strontium', 'Copper', 'Sodium', 'Barium'], 'difficulty': '5'},
+'Which gas is commonly used as a reducing agent in metallurgy?':
+{'answers': ['Carbon monoxide', 'Hydrogen', 'Oxygen', 'Nitrogen'], 'difficulty': '5'},
+'Which element is commonly used in the production of photographic film?':
+{'answers': ['Silver', 'Gold', 'Platinum', 'Palladium'], 'difficulty': '5'},
+'Which gas is commonly used in soda drinks to create fizziness?':
+{'answers': ['Carbon dioxide (CO2)', 'Oxygen (O2)', 'Nitrogen (N2)', 'Helium (He)'], 'difficulty': '5'},
+'Which element is commonly used in the production of batteries?':
+{'answers': ['Lithium', 'Copper', 'Aluminum', 'Lead'], 'difficulty': '5'},
+'Which element is commonly used as a pigment in blue-colored glass?':
+{'answers': ['Cobalt', 'Iron', 'Titanium', 'Copper'], 'difficulty': '5'},
+'Which gas is commonly used in the preservation of food?':
+{'answers': ['Nitrogen', 'Oxygen', 'Carbon dioxide', 'Hydrogen'], 'difficulty': '5'},
+'Which gas is commonly used in the production of soda ash?':
+{'answers': ['Ammonia (NH3)', 'Methane (CH4)', 'Hydrogen sulfide (H2S)', 'Carbon monoxide (CO)'], 'difficulty': '5'},
+'Which element is commonly used in the production of fertilizer?':
+{'answers': ['Nitrogen', 'Phosphorus', 'Potassium', 'Calcium'], 'difficulty': '5'},
+'Which gas is commonly used in the production of rubber?':
+{'answers': ['Butadiene', 'Ethylene', 'Propylene', 'Styrene'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of bleach?':
+{'answers': ['Chlorine', 'Ammonia', 'Hydrogen peroxide', 'Sulfur dioxide'], 'difficulty': '5'},
+'Which element is commonly used in batteries for electric vehicles?':
+{'answers': ['Cobalt', 'Lithium', 'Nickel', 'Manganese'], 'difficulty': '5'},
+'Which gas is commonly used as an anesthetic in medical procedures?':
+{'answers': ['Nitrous oxide (N2O)', 'Oxygen (O2)', 'Carbon dioxide (CO2)', 'Helium (He)'], 'difficulty': '5'},
+'Which gas is commonly used in the production of soft drinks?':
+{'answers': ['Carbon dioxide (CO2)', 'Oxygen (O2)', 'Nitrogen (N2)', 'Argon (Ar)'], 'difficulty': '5'},
+'Which element is commonly used in batteries for electronics?':
+{'answers': ['Lithium', 'Copper', 'Zinc', 'Iron'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of nail polish remover?':
+{'answers': ['Acetone', 'Ethanol', 'Methanol', 'Butanol'], 'difficulty': '5'},
+'Which element is commonly used in the production of semiconductors?':
+{'answers': ['Silicon', 'Germanium', 'Indium', 'Gallium'], 'difficulty': '5'},
+'Which element is commonly used in the production of solar cells?':
+{'answers': ['Silicon', 'Copper', 'Aluminum', 'Silver'], 'difficulty': '5'},
+'Which gas is used for carbonation in soda?':
+{'answers': ['Carbon dioxide (CO2)', 'Oxygen (O2)', 'Nitrogen (N2)', 'Helium (He)'], 'difficulty': '5'},
+'Which element is commonly used as a catalyst in the hydrogenation of vegetable oils?':
+{'answers': ['Nickel', 'Platinum', 'Copper', 'Iron'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of rotten eggs?':
+{'answers': ['Hydrogen sulfide', 'Ammonia', 'Carbon dioxide', 'Methane'], 'difficulty': '5'},
+'Which gas is commonly used in the production of fertilizers?':
+{'answers': ['Ammonia (NH3)', 'Methane (CH4)', 'Hydrogen sulfide (H2S)', 'Carbon monoxide (CO)'], 'difficulty': '5'},
+'Which element is commonly used in the production of soap?':
+{'answers': ['Sodium', 'Potassium', 'Calcium', 'Magnesium'], 'difficulty': '5'},
+'Which element is commonly used in the production of batteries for hearing aids?':
+{'answers': ['Zinc', 'Lithium', 'Nickel', 'Cobalt'], 'difficulty': '5'},
+'Which gas is commonly used in the production of welding flames for cutting and heating?':
+{'answers': ['Acetylene (C2H2)', 'Methane (CH4)', 'Propane (C3H8)', 'Butane (C4H10)'], 'difficulty': '5'},
+'Which gas is responsible for the characteristic smell of roses?':
+{'answers': ['Phenylacetaldehyde', 'Benzaldehyde', 'Citronellol', 'Geraniol'], 'difficulty': '6'},
+'Which compound is a catalyst in nylon synthesis?':
+{'answers': ['Hexamethylenediamine', 'Adipic acid', 'Caprolactam', 'Sebacic acid'], 'difficulty': '6'},
+'What is the main function of a chromatography column?':
+{'answers': ['Separation', 'Generation', 'Ionisation', 'Detection'], 'difficulty': '6'},
+'How is absolute configuration of chiral molecules determined?':
+{'answers': ['X-ray crystallography', 'NMR', 'IR', 'GC'], 'difficulty': '6'},
+'What is a common reducing agent in organic synthesis?':
+{'answers': ['Sodium borohydride', 'Lithium aluminum hydride', 'Sodium cyanoborohydride', 'Triethylsilane'], 'difficulty': '6'},
+'What is the major product of acetic acid and excess ethanol with sulfuric acid?':
+{'answers': ['Ethyl acetate', 'Acetaldehyde', 'Diethyl ether', 'Acetic anhydride'], 'difficulty': '6'},
+'Which technique determines enantiomeric excess of a chiral compound?':
+{'answers': ['Polarimetry', 'Mass spectrometry', 'NMR', 'GC'], 'difficulty': '6'},
+'What is a common high-boiling and low-toxicity solvent in organic reactions?':
+{'answers': ['DMSO', 'THF', 'Acetone', 'Methanol'], 'difficulty': '6'},
+'What is the key step in the Grignard reaction?':
+{'answers': ['Nucleophilic addition', 'Electrophilic addition', 'Elimination', 'Substitution'], 'difficulty': '6'},
+'Which technique measures molecular weight by traversal under an electric field?':
+{'answers': ['Capillary electrophoresis', 'GC', 'HPLC', 'Size-exclusion chromatography'], 'difficulty': '6'}
+}
